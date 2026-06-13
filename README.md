@@ -1,5 +1,7 @@
 # MathGame
 
+![Simple Math Game Demo](Assets/Animation.gif)
+
 A simple console-based math quiz game built with C# and .NET 10.
 
 ## Constraints
